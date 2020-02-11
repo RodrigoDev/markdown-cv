@@ -34,10 +34,10 @@ TDD, Agile
 `Aug 2018 - now`
 __Bold by Devoteam__ Backend Engineer
 
-__Mindera__ `current`
+*Mindera* current
   Inside a fintech project for a UK company, helping migrating legacy services to a microservice arquitecture with Go. Mainly as part of the payment team.
 
-__Sonae/Worten__
+*Sonae/Worten*
   With a team responsible for rebuild some parts of their legacy cart/payment tools with Go.
   
 `Feb 2018 - Aug 2018`
