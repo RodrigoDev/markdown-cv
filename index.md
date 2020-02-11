@@ -8,7 +8,7 @@ Backend Developer.
 <div id="webaddress">
 <a href="rodrigo.carneiro.dev@gmail.com">rodrigo.carneiro.dev@gmail.com</a>
 | <a href="https://www.linkedin.com/in/carneiro-rodrigo">Linkedin</a>
-| <a href="github.com/rodrigodev">Github</a>
+| <a href="https://github.com/rodrigodev">Github</a>
   
 </div>
 
@@ -34,10 +34,10 @@ TDD, Agile
 `Aug 2018 - now`
 __Bold by Devoteam__ Backend Engineer
 
-- __Mindera__ `current`
+__Mindera__ `current`
   Inside a fintech project for a UK company, helping migrating legacy services to a microservice arquitecture with Go. Mainly as part of the payment team.
 
-- __Sonae/Worten__
+__Sonae/Worten__
   With a team responsible for rebuild some parts of their legacy cart/payment tools with Go.
   
 `Feb 2018 - Aug 2018`
