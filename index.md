@@ -1,91 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Rodrigo Carneiro's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Rodrigo Carneiro
+Backend Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="rodrigo.carneiro.dev@gmail.com">rodrigo.carneiro.dev@gmail.com</a>
+| <a href="https://www.linkedin.com/in/carneiro-rodrigo">Linkedin</a>
+| <a href="github.com/rodrigodev">Github</a>
+  
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2008-2011`
+__Bachelor of Science (BS), Computer Science - UNESA__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Resume
 
-- Sizar
+Experienced Back End Developer with a demonstrated history of working in the information technology and services industry. Skilled in Go, PHP, Agile, SQL, and Linux. Strong engineering professional with a Bachelor of Science (BS) focused in Computer Science from UNESA.
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Skill tags
+
+Go, PHP, Javascript,
+PostgreSQL, MySQL, MongoDB,
+Symfony, Laravel,
+TDD, Agile
+
+## Experience
+
+`Aug 2018 - now`
+__Bold by Devoteam__
+| Mindera
+  Inside a fintech project for a UK company, helping migrating legacy services to a microservice arquitecture with Go. Mainly as part of the payment team.
+
+| Sonae
+  With a team responsible for rebuild some parts of their legacy cart/payment tools with Go.
+  
+`Feb 2018 - Aug 2018`
+__Soft4booking__
+  Leading a team responsible for a few tools for the hotelary area with PHP and Symfony framework. Integrations with Airbnb and Booking.com and building a mobile app and backoffice for shuttle/transportation.
+
+`Dec 2015 - Dec 2017`
+__OLX Brasil__
+  With a team responsible for the ad's lifecycle and review, we worked on several tools for ad review, manually and automatically. The main languages used on this project were PHP and Python. 
+
+
+`Jun 2014 - Mar 2015`
+__Hotel Hurbano__
+  With a team responsible for integrations, we worked in some integrations with 3rd party services and also responsible for maintaining a new tool written with PHP and Silex/Symfony.
+  
+`Nov 2013 - Jun 2014`
+__Tech X__
+
 
 - Fellow
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Fev 2020 -->
 
 
